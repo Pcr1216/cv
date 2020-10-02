@@ -39,6 +39,9 @@ img:hover{
     border-radius: 100%;
 }
 
+.stat{
+    font-family: cursive, serif;
+}
 /************ ID SELECTOR ********************/
 #heading{
     color:blue;
